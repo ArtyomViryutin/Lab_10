@@ -1,10 +1,8 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <locale.h>
-#include <malloc.h>
 #include "Header.h"
 #include <stdlib.h>
-#include <malloc.h>
 
 void check_equal(list *head, int num) {
 
