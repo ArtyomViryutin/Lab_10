@@ -3,7 +3,6 @@
 #include <locale.h>
 #include "Header.h"
 #include <stdlib.h>	
-#include <malloc.h>
 
 void main() {
 
